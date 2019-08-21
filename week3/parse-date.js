@@ -12,8 +12,7 @@ function parseDate(dateStr) {
         year,
         month,
         day,
-        hour,
-        minutes
+        hour, minutes
     };
 }
 
